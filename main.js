@@ -1,4 +1,4 @@
-import * as THREE from "three";
+// import * as THREE from "three";
 import { OrbitControls } from "three/addons/controls/OrbitControls.js";
 
 import starsTexture from "./img/stars.jpg";
